@@ -79,4 +79,9 @@
 - Classical arguments are often used when an individual or group wants to be more aggressive or direct, or when someone wants to 
   establish power with another individual or group. Many people who use the classical argument wrap up their conclusion by 
   incorporating appeals to the audience's motivations, values and feelings to help them identify with the argument.
-#
+  
+# Terminologies
+- Argument of Free Will (Paradox of Free will or Theological fatalism):
+- Destiny vs Free Will:
+- Necessary vs sufficient:
+- 
